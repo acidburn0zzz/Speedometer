@@ -28,9 +28,9 @@
         "test:edge": "node tests/run.mjs --browser edge"
     },
     "devDependencies": {
-        "@babel/core": "^7.21.3",
+        "@babel/core": "^8.0.1",
         "@babel/eslint-parser": "^7.21.3",
-        "@babel/plugin-proposal-decorators": "^7.21.0",
+        "@babel/plugin-proposal-decorators": "^8.0.2",
         "@nuxt/eslint-config": "^0.1.1",
         "@next/eslint-plugin-next": "^13.4.5",
         "@typescript-eslint/eslint-plugin": "^5.59.0",
@@ -43,7 +43,7 @@
         "eslint-plugin-vue": "^9.10.0",
         "expect.js": "^0.3.1",
         "http-server": "^14.1.1",
-        "mocha": "^10.2.0",
+        "mocha": "^10.8.2",
         "prettier": "^2.8.3",
         "selenium-webdriver": "^4.8.0",
         "sinon": "^17.0.1",
