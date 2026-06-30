@@ -28,9 +28,9 @@
         "test:edge": "node tests/run.mjs --browser edge"
     },
     "devDependencies": {
-        "@babel/core": "^7.21.3",
+        "@babel/core": "^8.0.1",
         "@babel/eslint-parser": "^7.21.3",
-        "@babel/plugin-proposal-decorators": "^7.21.0",
+        "@babel/plugin-proposal-decorators": "^8.0.2",
         "@nuxt/eslint-config": "^0.1.1",
         "@next/eslint-plugin-next": "^13.4.5",
         "@typescript-eslint/eslint-plugin": "^5.59.0",
