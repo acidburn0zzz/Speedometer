@@ -15,15 +15,15 @@
         "format": "npm run pretty:fix ; npm run lint:fix"
     },
     "devDependencies": {
-        "@nuxt/eslint-config": "^0.1.1",
+        "@nuxt/eslint-config": "^1.17.0",
         "@types/node": "^18",
-        "eslint": "^8.41.0",
-        "nuxt": "^3.5.2",
+        "eslint": "^10.8.0",
+        "nuxt": "^3.21.11",
         "prettier": "^2.8.8"
     },
     "dependencies": {
         "http-server": "^14.1.1",
         "news-site-css": "file:../news-site-css",
-        "uuid": "^9.0.0"
+        "uuid": "^14.0.0"
     }
 }
