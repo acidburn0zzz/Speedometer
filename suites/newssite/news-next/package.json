@@ -16,12 +16,12 @@
         "eslint-config-next": "13.3.4",
         "http-server": "^14.1.1",
         "news-site-css": "file:../news-site-css",
-        "next": "13.3.4",
+        "next": "16.3.0",
         "react": "18.2.0",
         "react-dom": "18.2.0",
-        "react-router-dom": "^6.11.1",
+        "react-router-dom": "^6.30.4",
         "react-router-hash-link": "^2.4.3",
         "speedometer-utils": "../../../resources/shared",
-        "uuid": "^9.0.0"
+        "uuid": "^14.0.0"
     }
 }
