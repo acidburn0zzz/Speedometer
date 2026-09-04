@@ -29,7 +29,7 @@
         "@rollup/plugin-terser": "^0.4.4",
         "@web/dev-server": "0.4.3",
         "concurrently": "^9.0.1",
-        "postcss": "^8.4.40",
+        "postcss": "^8.5.28",
         "rollup": "^4.41.1",
         "rollup-plugin-copy": "^3.5.0",
         "rollup-plugin-import-css": "^3.5.8",
