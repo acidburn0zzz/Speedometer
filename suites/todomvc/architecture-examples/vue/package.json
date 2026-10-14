@@ -18,7 +18,7 @@
         "sanitize-language": "file:../../../scripts/sanitize-language",
         "todomvc-app-css": "^2.4.2",
         "todomvc-common": "^1.0.5",
-        "vue": "^3.2.47",
+        "vue": "^3.5.44",
         "vue-router": "^4.1.6"
     },
     "devDependencies": {
