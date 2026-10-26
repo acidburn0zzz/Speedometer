@@ -25,8 +25,8 @@
         "rollup-plugin-copy-merge": "^1.0.2",
         "rollup-plugin-import-css": "^3.2.1",
         "semver": "^7.5.1",
-        "stylelint": "^15.6.2",
-        "stylelint-config-standard": "^33.0.0"
+        "stylelint": "^17.16.0",
+        "stylelint-config-standard": "^40.0.0"
     },
     "files": [
         "/dist"
